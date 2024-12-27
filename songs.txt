@@ -1,0 +1,4 @@
+Song 1,ishq|Faheem Abdullah|https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE?si=5ee2613a06704056
+Song 2,Bewafa|Imran Khan|https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX?si=dd4cf515eb754316
+Shape of You|Ed Sheeran|C:/Music/ShapeOfYou.mp3
+Despacito|Luis Fonsi|C:/Music/Despacito.mp3
